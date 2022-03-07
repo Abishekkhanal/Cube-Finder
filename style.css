@@ -1,0 +1,8 @@
+.table{
+    text-transform: capitalize;
+    color: crimson;
+}
+.table:hover{
+    background-color: lightblue;
+    animation: backwards;
+}
